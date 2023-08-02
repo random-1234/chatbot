@@ -94,7 +94,7 @@ p,
 /* Styling for the buttons in the chat interface */
 .bpw-button,
 .bpw-button-alt {
-  background-color: #e6e6e6;
+  background-color: #005A8D;
   color: #000000;
   border-radius: 10px;
   border: none;
@@ -104,7 +104,7 @@ p,
 /* Styling for hover effect on the buttons in the chat interface */
 .bpw-button:hover,
 .bpw-button-alt:hover {
-  background-color: #ffffff;
+  background-color: #022E57;
 }
 
 
@@ -116,22 +116,22 @@ a {
 
 /* Styling for the chat container, including color, scrollbar width and color, and border */
 .bpw-chat-container {
-  background-color: #f0f0f0;
+  background-color: #FFF5FD;
   scrollbar-width: thin;
-  scrollbar-color: #ffffff #f0f0f0;
+  scrollbar-color: #FFF5FD;
   border: none;
 }
 
 /* Styling for the chat bubble content when it's from the bot */
 .bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
-  background-color: #ffffff;
-  color: #000000;
+  background-color: #FF96AD;
+  color: #005A8D;
 }
 
 /* Styling for the chat bubble content when it's from the user */
 .bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
-  background-color: #000000;
-  color: #ffffff;
+  background-color: #022E57;
+  color: #005A8D;
 }
 
 /* Styling for the composer section of the chat interface */
